@@ -1,4 +1,4 @@
-Team Builder. Thank you Alex for the skeleton. You're the man.
+Team Builder.
 ===
 
 
