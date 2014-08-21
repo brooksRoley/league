@@ -1,0 +1,29 @@
+body{
+  background-image: url("/images/background.jpg");
+}
+
+.header{
+ /* clear:both;*/
+  width: 20%;
+  height: 15%;
+  display:block;
+/*  margin-left: auto;
+  margin-right: auto;
+*/
+  margin:auto;
+}
+
+li{
+  list-style:none;
+}
+
+.team1{
+  float:left;
+  width:20%;
+  height: 80%
+}
+
+.team2{
+  float:right;
+  width: 20%
+}
